@@ -1,6 +1,7 @@
 package com.github.curriculeon.genericinventory;
 
 import com.github.curriculeon.GenericInventory;
+import com.github.curriculeon.ItemInventory;
 import org.junit.Assert;
 import org.junit.Test;
 
